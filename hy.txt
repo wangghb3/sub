@@ -1,0 +1,2 @@
+proxies:
+  - {"type":"hysteria2","name":"w0hy2","server":"65.108.103.151","port":21084,"password":"9e0da28d-ee9c-4fef-95a4-df2d03350401","sni":"www.bing.com","skip-cert-verify":true,"tfo":false}
